@@ -20,4 +20,5 @@ If not, you will be directed to the check-out page directly. (You can verify you
 ![Buying Ticket](/speakers-and-attendees/images/how-to-buy-ticket4.png)
 
 ### 5. Check your email or view tickets in your Eventyay account.
-Your confirmation email contains your pdf tickets and a receipt of your order. 
+Your confirmation email contains your pdf ticket(s) and a receipt of your order(s). 
+![Buying Ticket](/speakers-and-attendees/images/how-to-buy-ticket6.png)
